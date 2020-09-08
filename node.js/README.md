@@ -1,6 +1,3 @@
-
-__test__
-
 * ## __`공부자료`__ :
 
   * [생활코딩](https://opentutorials.org/course/743)
