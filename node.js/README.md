@@ -1,14 +1,14 @@
-### 'NODE.JS'
+## 'NODE.JS'
 
-* 공부자료 :
+* __`공부자료`__ :
 
   * [생활코딩](https://opentutorials.org/course/743)
   
   * [NODE.JS pdf](https://github.com/WepProglam/study/blob/master/node.js/pdf/NodeJS.pdf)
   
-* 커리큘럼 :
+* __`커리큘럼`__ :
 
-  + 생활코딩
+  * `생활코딩`
   
      - 1. 변수, 조건문, 반복문, 함수
      
@@ -24,7 +24,7 @@
      
      - 7. object, 데이터 타입, 참조
     
-   + node,js
+   * `NODE.JS`
    
       - 8. 3, 4 단원 (객체, 모듈)
       
