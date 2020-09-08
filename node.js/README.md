@@ -1,10 +1,12 @@
 
+__test__
+
 * ## __`공부자료`__ :
 
   * [생활코딩](https://opentutorials.org/course/743)
 
   * [NODE.JS pdf](https://github.com/WepProglam/study/blob/master/node.js/pdf/NodeJS.pdf)
-  
+
 * ## __`커리큘럼`__ :
 
     __`생활코딩`__
